@@ -1,1 +1,3 @@
 New file created for smartgit using notepad
+
+learning fast forward merge using terminal
