@@ -1,3 +1,5 @@
 second file created using notepad for push to github
 
 2nd commit created using terminal learning fast merge
+
+1st commit created using smartgit for fast merge.
